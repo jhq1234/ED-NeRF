@@ -5,7 +5,7 @@ This repository contains the official pytorch implementation of [ED-NeRF](#).
 [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://jhq1234.github.io/ed-nerf.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.00845-b31b1b.svg)](https://arxiv.org/abs/2310.02712)
 
-## 🌱 Abstract
+## 📘 Abstract
 <b><font color="red">ED-NeRF</font> is the NeRF editing that is based on latent space NeRF and Diffusion Models.<br>
 <font color="red">ED-NeRF</font> only requires a text prompt to edit the target region of a 3D scene from NeRF.<br>
 :o: Pretrained Stable Diffusion |
