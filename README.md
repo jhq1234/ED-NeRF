@@ -1,6 +1,6 @@
-# Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models
+# ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF
 
-This repository contains the official pytorch implementation of [Ground-A-Video](#).
+This repository contains the official pytorch implementation of [ED-NeRF](#).
 <br/> <br/>
 [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://ed-nerf.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.00845-b31b1b.svg)](https://arxiv.org/abs/2310.02712)
