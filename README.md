@@ -2,7 +2,7 @@
 
 This repository contains the official pytorch implementation of [ED-NeRF](#).
 <br/> <br/>
-[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://ed-nerf.github.io/)
+[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://jhq1234.github.io/ed-nerf.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.00845-b31b1b.svg)](https://arxiv.org/abs/2310.02712)
 
 ## 🌱 Abstract
