@@ -1,4 +1,4 @@
-# ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF
+# ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF (ICLR 2024)
 
 This repository contains the official pytorch implementation of [ED-NeRF](#).
 <br/> <br/>
