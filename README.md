@@ -9,8 +9,8 @@ This repository contains the official pytorch implementation of [ED-NeRF](#).
 <b><font color="red">ED-NeRF</font> is the NeRF editing that is based on latent space NeRF and Diffusion Models.<br>
 <font color="red">ED-NeRF</font> only requires a text prompt to edit the target region of a 3D scene from NeRF.<br>
 :o: Pretrained Stable Diffusion |
-:o: Only latent space training |
-:x: RGB NeRF training</b>
+:o: Latent space training |
+:x: RGB NeRF fine-tuning for editing</b>
 
 <details><summary>Full abstract</summary>
 
